@@ -1,0 +1,3244 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ already found" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ už máš"
+          }
+        }
+      }
+    },
+    "%@ found" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ nalezeno"
+          }
+        }
+      }
+    },
+    "%@ is a bonus word" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ je bonusové slovo"
+          }
+        }
+      }
+    },
+    "%@ is not in the puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ v hádance není"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "shouldTranslate" : false
+    },
+    "%lld / %lld" : {
+      "shouldTranslate" : false
+    },
+    "%lld coins" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mince"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mince"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mince"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld mincí"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld coin"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld coins"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld free uses" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld free use"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld free uses"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld free uses to try it out" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma na vyzkoušení"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma na vyzkoušení"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma na vyzkoušení"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld použití zdarma na vyzkoušení"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld free use to try it out"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld free uses to try it out"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld letters: %@." : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld písmena: %@."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld písmene: %@."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld písmeno: %@."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld písmen: %@."
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld letter: %@."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld letters: %@."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld of %lld bonus words" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld z %lld bonusových slov"
+          }
+        }
+      }
+    },
+    "%lld of %lld levels completed" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončeno %lld ze %lld úrovní"
+          }
+        }
+      }
+    },
+    "%lld of %lld words found." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nalezeno slov: %lld, celkem %lld."
+          }
+        }
+      }
+    },
+    "%lld of 4 tiers" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ze 4 stupňů"
+          }
+        }
+      }
+    },
+    "%lld rewards to claim" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld odměny k vyzvednutí"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld odměny k vyzvednutí"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld odměna k vyzvednutí"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld odměn k vyzvednutí"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld reward to claim"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld rewards to claim"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld unique words collected in Czech." : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbíraná slova v češtině."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbíraného slova v češtině."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbírané slovo v češtině."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbíraných slov v češtině."
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld unique word collected in Czech."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld unique words collected in Czech."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld unique words collected in English." : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbíraná slova v angličtině."
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbíraného slova v angličtině."
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbírané slovo v angličtině."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld nasbíraných slov v angličtině."
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld unique word collected in English."
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld unique words collected in English."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld-day streak" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld dny"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld dne"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld den"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Série: %lld dní"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld/%lld" : {
+      "shouldTranslate" : false
+    },
+    "+%lld" : {
+      "shouldTranslate" : false
+    },
+    "A fresh crossword is waiting. Keep your streak glowing!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čeká na tebe nová křížovka. Nenech svou sérii vyhasnout!"
+          }
+        }
+      }
+    },
+    "A gentle nudge when the daily puzzle is still waiting." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jemné připomenutí, když na tebe denní hádanka ještě čeká."
+          }
+        }
+      }
+    },
+    "A journey through words" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Putování krajinou slov"
+          }
+        }
+      }
+    },
+    "A new crossword every day. Solve it to earn %lld coins and grow your streak." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den nová křížovka. Vyřeš ji, získej %lld mincí a prodluž svou sérii."
+          }
+        }
+      }
+    },
+    "A new landscape awaits." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čeká tě nová krajina."
+          }
+        }
+      }
+    },
+    "A new puzzle every day. Solve it on consecutive days to build a streak." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý den nová hádanka. Řeš ji den co den a buduj svou sérii."
+          }
+        }
+      }
+    },
+    "Achievements" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úspěchy"
+          }
+        }
+      }
+    },
+    "Acknowledgements" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poděkování"
+          }
+        }
+      }
+    },
+    "All" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vše"
+          }
+        }
+      }
+    },
+    "All tiers complete" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všechny stupně splněny"
+          }
+        }
+      }
+    },
+    "Already found" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Už máš"
+          }
+        }
+      }
+    },
+    "Automatic (%@)" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automaticky (%@)"
+          }
+        }
+      }
+    },
+    "Autumn Valley" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podzimní údolí"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zpět"
+          }
+        }
+      }
+    },
+    "Back to menu" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zpět do menu"
+          }
+        }
+      }
+    },
+    "Best streak" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejdelší série"
+          }
+        }
+      }
+    },
+    "blank" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "prázdné"
+          }
+        }
+      }
+    },
+    "Bonus" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonusy"
+          }
+        }
+      }
+    },
+    "Bonus gift" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonusový dárek"
+          }
+        }
+      }
+    },
+    "Bonus gift opened! +%lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dárek otevřen! +%lld"
+          }
+        }
+      }
+    },
+    "Bonus word" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonusové slovo"
+          }
+        }
+      }
+    },
+    "Bonus word! Collect %lld to open a gift." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonusové slovo! Nasbírej jich %lld a otevři dárek."
+          }
+        }
+      }
+    },
+    "Bonus words" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonusová slova"
+          }
+        }
+      }
+    },
+    "Bonus words found while replaying a level don't fill the gift." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonusová slova nalezená při opakování úrovně dárek neplní."
+          }
+        }
+      }
+    },
+    "Bookworm" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Knihomol"
+          }
+        }
+      }
+    },
+    "Brilliant!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skvělé!"
+          }
+        }
+      }
+    },
+    "Bronze" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bronz"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zrušit"
+          }
+        }
+      }
+    },
+    "Canyon Sunset" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Západ nad kaňonem"
+          }
+        }
+      }
+    },
+    "Chapter %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapitola %lld"
+          }
+        }
+      }
+    },
+    "Chapter %lld, %@, Levels %@–%@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapitola %lld, %@, úrovně %@–%@"
+          }
+        }
+      }
+    },
+    "Chapter complete" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapitola dokončena"
+          }
+        }
+      }
+    },
+    "Chapter complete!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapitola dokončena!"
+          }
+        }
+      }
+    },
+    "Chapters" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kapitoly"
+          }
+        }
+      }
+    },
+    "Cherry Blossom" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Třešňový květ"
+          }
+        }
+      }
+    },
+    "Claim" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyzvednout"
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat"
+          }
+        }
+      }
+    },
+    "Clear Mind" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čistá hlava"
+          }
+        }
+      }
+    },
+    "Collect %lld words in your lexicon" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nasbírej %lld slov do slovníku"
+          }
+        }
+      }
+    },
+    "Complete %lld chapters" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld kapitoly"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld kapitoly"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld kapitolu"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld kapitol"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Complete %lld chapter"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Complete %lld chapters"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Complete %lld levels" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovně"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovně"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úroveň"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovní"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Complete %lld level"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Complete %lld levels"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Complete %lld levels without hints" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovně bez nápověd"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovně bez nápověd"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úroveň bez nápověd"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovní bez nápověd"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Complete %lld level without hints"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Complete %lld levels without hints"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Completed" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončeno"
+          }
+        }
+      }
+    },
+    "Completed without hints" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončeno bez nápověd"
+          }
+        }
+      }
+    },
+    "Completed, %lld levels without hints" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokončeno, %lld úroveň bez nápověd"
+                }
+              },
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokončeno, %lld úrovně bez nápověd"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokončeno, %lld úrovně bez nápověd"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokončeno, %lld úrovní bez nápověd"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Completed, %lld level without hints"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Completed, %lld levels without hints"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokračovat"
+          }
+        }
+      }
+    },
+    "Coral Lagoon" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korálová laguna"
+          }
+        }
+      }
+    },
+    "Crossword" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Z křížovek"
+          }
+        }
+      }
+    },
+    "Crossword grid" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Křížovka"
+          }
+        }
+      }
+    },
+    "Crossword words" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slova v křížovkách"
+          }
+        }
+      }
+    },
+    "Current streak" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuální série"
+          }
+        }
+      }
+    },
+    "Daily puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní hádanka"
+          }
+        }
+      }
+    },
+    "Daily Puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní hádanka"
+          }
+        }
+      }
+    },
+    "Daily puzzles" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní hádanky"
+          }
+        }
+      }
+    },
+    "Daily reminder" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní připomínka"
+          }
+        }
+      }
+    },
+    "Daily Ritual" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Denní rituál"
+          }
+        }
+      }
+    },
+    "Days solved" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešené dny"
+          }
+        }
+      }
+    },
+    "Desert Night" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pouštní noc"
+          }
+        }
+      }
+    },
+    "Discover %lld bonus words" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Objev %lld bonusová slova"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Objev %lld bonusového slova"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Objev %lld bonusové slovo"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Objev %lld bonusových slov"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Discover %lld bonus word"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Discover %lld bonus words"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotovo"
+          }
+        }
+      }
+    },
+    "Drag your finger across the letters on the wheel, then lift it. Every word you find fills its place in the crossword." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Táhni prstem přes písmena v kruhu a pak ho zvedni. Každé nalezené slovo se doplní na své místo v křížovce."
+          }
+        }
+      }
+    },
+    "Each language has its own journey, daily puzzle and lexicon." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každý jazyk má vlastní cestu, denní hádanku i slovník."
+          }
+        }
+      }
+    },
+    "Ember Ridge" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žhnoucí hřeben"
+          }
+        }
+      }
+    },
+    "Emerald Isles" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smaragdové ostrovy"
+          }
+        }
+      }
+    },
+    "ENABLE word list" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seznam slov ENABLE"
+          }
+        }
+      }
+    },
+    "Every %lld days in a row earns %lld bonus coins." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každých %lld dní v řadě ti přinese %lld bonusových mincí."
+          }
+        }
+      }
+    },
+    "Every word you discover is kept in your lexicon, where you can look up its meaning." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Každé objevené slovo se uloží do tvého slovníku, kde si můžeš najít jeho význam."
+          }
+        }
+      }
+    },
+    "Excellent!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výborně!"
+          }
+        }
+      }
+    },
+    "Explorer" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Objevitel"
+          }
+        }
+      }
+    },
+    "Fantastic!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fantastické!"
+          }
+        }
+      }
+    },
+    "Filter" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtr"
+          }
+        }
+      }
+    },
+    "Find %lld crossword words" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld slova v křížovkách"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld slova v křížovkách"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld slovo v křížovkách"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld slov v křížovkách"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Find %lld crossword word"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Find %lld crossword words"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Find %lld seven-letter words" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld sedmipísmenná slova"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld sedmipísmenného slova"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld sedmipísmenné slovo"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi %lld sedmipísmenných slov"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Find %lld seven-letter word"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Find %lld seven-letter words"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Find 5+ bonus words in %lld levels" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi 5+ bonusových slov ve %lld úrovních"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi 5+ bonusových slov v %lld úrovně"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi 5+ bonusových slov v %lld úrovni"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Najdi 5+ bonusových slov ve %lld úrovních"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Find 5+ bonus words in %lld level"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Find 5+ bonus words in %lld levels"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Finish %lld levels in under a minute" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovně za méně než minutu"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovně za méně než minutu"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úroveň za méně než minutu"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dokonči %lld úrovní za méně než minutu"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Finish %lld level in under a minute"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Finish %lld levels in under a minute"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Finishing a level without help earns a crown and extra coins." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úroveň dokončená bez pomoci ti vynese korunku a mince navíc."
+          }
+        }
+      }
+    },
+    "Firefly Forest" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les světlušek"
+          }
+        }
+      }
+    },
+    "Flawless!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bezchybně!"
+          }
+        }
+      }
+    },
+    "Found in this puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nalezeno v této hádance"
+          }
+        }
+      }
+    },
+    "Free" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdarma"
+          }
+        }
+      }
+    },
+    "Frozen Fjord" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamrzlý fjord"
+          }
+        }
+      }
+    },
+    "Game" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hra"
+          }
+        }
+      }
+    },
+    "Gift Collector" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sběratel dárků"
+          }
+        }
+      }
+    },
+    "Gifts opened" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otevřené dárky"
+          }
+        }
+      }
+    },
+    "Gold" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zlato"
+          }
+        }
+      }
+    },
+    "Golden Dunes" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zlaté duny"
+          }
+        }
+      }
+    },
+    "Good one!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trefa!"
+          }
+        }
+      }
+    },
+    "Great!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Super!"
+          }
+        }
+      }
+    },
+    "Haptics" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptika"
+          }
+        }
+      }
+    },
+    "Highland Heather" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vřesoviště"
+          }
+        }
+      }
+    },
+    "Hints used" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Použité nápovědy"
+          }
+        }
+      }
+    },
+    "How to play" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak hrát"
+          }
+        }
+      }
+    },
+    "Hunspell dictionaries (en_US, cs_CZ)" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slovníky Hunspell (en_US, cs_CZ)"
+          }
+        }
+      }
+    },
+    "Journey" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cesta"
+          }
+        }
+      }
+    },
+    "Lavender Hills" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Levandulové kopce"
+          }
+        }
+      }
+    },
+    "Level %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úroveň %@"
+          }
+        }
+      }
+    },
+    "Level complete" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úroveň dokončena"
+          }
+        }
+      }
+    },
+    "Levels %@–%@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úrovně %@–%@"
+          }
+        }
+      }
+    },
+    "Levels completed" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dokončené úrovně"
+          }
+        }
+      }
+    },
+    "Levels, coins, streaks, achievements and your lexicon will be erased. This cannot be undone." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smažou se úrovně, mince, série, úspěchy i tvůj slovník. Tuto akci nelze vrátit."
+          }
+        }
+      }
+    },
+    "Lexicon" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slovník"
+          }
+        }
+      }
+    },
+    "Light Bulb" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žárovka"
+          }
+        }
+      }
+    },
+    "Locked" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamčeno"
+          }
+        }
+      }
+    },
+    "Long Haul" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dlouhý dech"
+          }
+        }
+      }
+    },
+    "Longest word" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nejdelší slovo"
+          }
+        }
+      }
+    },
+    "Lv %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úr. %lld"
+          }
+        }
+      }
+    },
+    "Magnificent!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velkolepé!"
+          }
+        }
+      }
+    },
+    "Map" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mapa"
+          }
+        }
+      }
+    },
+    "Masterful!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mistrovské!"
+          }
+        }
+      }
+    },
+    "Misty Pines" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mlžné borovice"
+          }
+        }
+      }
+    },
+    "Moonlit Lake" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jezero pod měsícem"
+          }
+        }
+      }
+    },
+    "Morning Meadow" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ranní louka"
+          }
+        }
+      }
+    },
+    "New hint: %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nová nápověda: %@"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další"
+          }
+        }
+      }
+    },
+    "Next level" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další úroveň"
+          }
+        }
+      }
+    },
+    "Next month" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další měsíc"
+          }
+        }
+      }
+    },
+    "Next puzzle in %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další hádanka za %@"
+          }
+        }
+      }
+    },
+    "Nice!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pěkné!"
+          }
+        }
+      }
+    },
+    "No bonus words in this puzzle yet. Try spelling other words with the wheel!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V této hádance zatím nemáš žádná bonusová slova. Zkus z kruhu složit i jiná slova!"
+          }
+        }
+      }
+    },
+    "No definition found on this device. For Czech words, download the Czech–English dictionary in Settings › General › Dictionary." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na tomto zařízení se nenašla žádná definice. Pro česká slova si v Nastavení › Obecné › Slovník stáhni česko-anglický slovník."
+          }
+        }
+      }
+    },
+    "No definition found on this device. You can download more dictionaries in Settings › General › Dictionary." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na tomto zařízení se nenašla žádná definice. Další slovníky si můžeš stáhnout v Nastavení › Obecné › Slovník."
+          }
+        }
+      }
+    },
+    "No hints used" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez nápověd"
+          }
+        }
+      }
+    },
+    "No matches" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Žádné výsledky"
+          }
+        }
+      }
+    },
+    "Northern Lights" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Polární záře"
+          }
+        }
+      }
+    },
+    "Not enough coins. Find bonus words or solve the daily puzzle to earn more." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nemáš dost mincí. Hledej bonusová slova nebo vyřeš denní hádanku."
+          }
+        }
+      }
+    },
+    "Notifications are turned off for this app. You can allow them in the Settings app." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oznámení jsou pro tuto aplikaci vypnutá. Povolit je můžeš v aplikaci Nastavení."
+          }
+        }
+      }
+    },
+    "Open %lld bonus gifts" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Otevři %lld bonusové dárky"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Otevři %lld bonusového dárku"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Otevři %lld bonusový dárek"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Otevři %lld bonusových dárků"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Open %lld bonus gift"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Open %lld bonus gifts"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Outstanding!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Úžasné!"
+          }
+        }
+      }
+    },
+    "Part of wordfreq's data: the SUBTLEX word lists by Marc Brysbaert et al., which are freely available (crr.ugent.be), and subtitles from OpenSubtitles (opensubtitles.org) through OPUS. wordfreq also draws on Wikipedia, Google Books Ngram Viewer (books.google.com/ngrams), the Leeds Internet Corpus and ParaCrawl." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Část dat knihovny wordfreq: seznamy slov SUBTLEX od Marca Brysbaerta a kol., které jsou volně dostupné (crr.ugent.be), a titulky z OpenSubtitles (opensubtitles.org) prostřednictvím OPUS. Wordfreq dále čerpá z Wikipedie, Google Books Ngram Viewer (books.google.com/ngrams), korpusu Leeds Internet Corpus a ParaCrawl."
+          }
+        }
+      }
+    },
+    "Platinum" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Platina"
+          }
+        }
+      }
+    },
+    "Play" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hrát"
+          }
+        }
+      }
+    },
+    "Play level %@" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hrát úroveň %@"
+          }
+        }
+      }
+    },
+    "Play today's puzzle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hrát dnešní hádanku"
+          }
+        }
+      }
+    },
+    "Previous month" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Předchozí měsíc"
+          }
+        }
+      }
+    },
+    "Public domain. English word validation." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volné dílo. Ověřování anglických slov."
+          }
+        }
+      }
+    },
+    "Pure genius!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čistý génius!"
+          }
+        }
+      }
+    },
+    "Puzzle language" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jazyk hádanek"
+          }
+        }
+      }
+    },
+    "Puzzles" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hádanky"
+          }
+        }
+      }
+    },
+    "Quick Thinker" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bystrá hlava"
+          }
+        }
+      }
+    },
+    "Rather tap than swipe? Turn on Spell by tapping in Settings: tap the letters one by one, then submit the word with a button. It is always on with VoiceOver and Switch Control." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raději klepat než táhnout? Zapni v Nastavení Skládat klepáním: klepeš na písmena jedno po druhém a slovo pak potvrdíš tlačítkem. S VoiceOverem a Ovládáním přepínači je zapnuté vždy."
+          }
+        }
+      }
+    },
+    "Reach a streak of %lld days" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dosáhni série %lld dní"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dosáhni série %lld dne"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dosáhni série %lld dne"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Dosáhni série %lld dní"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Reach a streak of %lld day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Reach a streak of %lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Real words that are not in the crossword fill the gift. Every %lld words opens it for %lld coins." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skutečná slova, která v křížovce nejsou, plní dárek. Každých %lld slov ho otevře a získáš %lld mincí."
+          }
+        }
+      }
+    },
+    "Real words that aren't in the crossword still count. Every %lld of them opens a gift worth %lld coins." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Platí i skutečná slova, která v křížovce nejsou. Každých %lld z nich otevře dárek v hodnotě %lld mincí."
+          }
+        }
+      }
+    },
+    "Reminder" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Připomínka"
+          }
+        }
+      }
+    },
+    "Replays earn no coins, but solving a level without hints still earns its crown." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opakované hraní mince nepřináší, ale za vyřešení bez nápověd získáš korunku."
+          }
+        }
+      }
+    },
+    "Reset all progress?" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat veškerý postup?"
+          }
+        }
+      }
+    },
+    "Reset everything" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat vše"
+          }
+        }
+      }
+    },
+    "Reset progress" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat postup"
+          }
+        }
+      }
+    },
+    "Reveals five letters scattered across the grid." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkryje pět písmen rozesetých po křížovce."
+          }
+        }
+      }
+    },
+    "Reveals the next letter of a word." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odkryje další písmeno slova."
+          }
+        }
+      }
+    },
+    "Rose Dawn" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Růžové svítání"
+          }
+        }
+      }
+    },
+    "Row %lld, column %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řádek %lld, sloupec %lld"
+          }
+        }
+      }
+    },
+    "SCOWL by Kevin Atkinson; Czech dictionary by Petr Kolář, Miroslav Pošta and contributors. Used to check spelling while building the puzzles." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SCOWL od Kevina Atkinsona; český slovník od Petra Koláře, Miroslava Pošty a dalších přispěvatelů. Použito ke kontrole pravopisu při tvorbě hádanek."
+          }
+        }
+      }
+    },
+    "Search words" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hledat slova"
+          }
+        }
+      }
+    },
+    "Section" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekce"
+          }
+        }
+      }
+    },
+    "Seeing the letters in a new order often reveals a hidden word." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Písmena v novém pořadí často prozradí skryté slovo."
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení"
+          }
+        }
+      }
+    },
+    "Shows the definition" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zobrazí definici"
+          }
+        }
+      }
+    },
+    "Shuffle" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamíchat"
+          }
+        }
+      }
+    },
+    "Shuffle letters" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamíchat písmena"
+          }
+        }
+      }
+    },
+    "Silent Snowfall" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiché sněžení"
+          }
+        }
+      }
+    },
+    "Silver" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stříbro"
+          }
+        }
+      }
+    },
+    "Solve %lld daily puzzles" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Vyřeš %lld denní hádanky"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Vyřeš %lld denní hádanky"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Vyřeš %lld denní hádanku"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Vyřeš %lld denních hádanek"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Solve %lld daily puzzle"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Solve %lld daily puzzles"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Solve without hints" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Řeš bez nápověd"
+          }
+        }
+      }
+    },
+    "Solved" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešeno"
+          }
+        }
+      }
+    },
+    "Solved without hints" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyřešeno bez nápověd"
+          }
+        }
+      }
+    },
+    "Sound effects" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvukové efekty"
+          }
+        }
+      }
+    },
+    "Spell by tapping" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skládat klepáním"
+          }
+        }
+      }
+    },
+    "Spell words" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skládej slova"
+          }
+        }
+      }
+    },
+    "Splendid!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nádhera!"
+          }
+        }
+      }
+    },
+    "Spotlight" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reflektor"
+          }
+        }
+      }
+    },
+    "Spring Rain" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jarní déšť"
+          }
+        }
+      }
+    },
+    "Starburst" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvězdný třpyt"
+          }
+        }
+      }
+    },
+    "Starlit Peaks" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvězdné štíty"
+          }
+        }
+      }
+    },
+    "Start a streak today" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začni sérii ještě dnes"
+          }
+        }
+      }
+    },
+    "Statistics" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistiky"
+          }
+        }
+      }
+    },
+    "Steady Flame" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stálý plamen"
+          }
+        }
+      }
+    },
+    "Submit word" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odeslat slovo"
+          }
+        }
+      }
+    },
+    "Summit of Light" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vrchol světla"
+          }
+        }
+      }
+    },
+    "Superb!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Báječné!"
+          }
+        }
+      }
+    },
+    "Swipe across the letters to make a word" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Táhni prstem přes písmena a slož slovo"
+          }
+        }
+      }
+    },
+    "Tap an empty square to reveal it" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klepni na prázdné políčko a odkryj ho"
+          }
+        }
+      }
+    },
+    "Tap any empty square to reveal its letter." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klepni na libovolné prázdné políčko a odkryj jeho písmeno."
+          }
+        }
+      }
+    },
+    "Tap the letters one by one and submit the word with a button, instead of swiping. Always on with VoiceOver and Switch Control." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klepej na písmena jedno po druhém a slovo potvrď tlačítkem, místo tažení prstem. S VoiceOverem a Ovládáním přepínači je zapnuté vždy."
+          }
+        }
+      }
+    },
+    "Tap the letters one by one, then Submit word" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klepej na písmena jedno po druhém a pak na Odeslat slovo"
+          }
+        }
+      }
+    },
+    "Their meanings come from the Czech–English dictionary in Settings › General › Dictionary." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Význam slov ukáže česko-anglický slovník z Nastavení › Obecné › Slovník."
+          }
+        }
+      }
+    },
+    "Thorough" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Důkladnost"
+          }
+        }
+      }
+    },
+    "Thunder Plains" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bouřlivé pláně"
+          }
+        }
+      }
+    },
+    "Tidal Shore" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přílivový břeh"
+          }
+        }
+      }
+    },
+    "Time" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Čas"
+          }
+        }
+      }
+    },
+    "Time played" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odehraný čas"
+          }
+        }
+      }
+    },
+    "Today's puzzle is solved" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnešní hádanka je vyřešená"
+          }
+        }
+      }
+    },
+    "Total" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Celkem"
+          }
+        }
+      }
+    },
+    "Total %lld coins" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Celkem %lld mince"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Celkem %lld mince"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Celkem %lld mince"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Celkem %lld mincí"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Total %lld coin"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Total %lld coins"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Trailblazer" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Průkopník"
+          }
+        }
+      }
+    },
+    "Treasure Hunter" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lovec pokladů"
+          }
+        }
+      }
+    },
+    "Trophies" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trofeje"
+          }
+        }
+      }
+    },
+    "Try a different search." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zkus hledat něco jiného."
+          }
+        }
+      }
+    },
+    "Unlocks after level %lld" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odemkne se po úrovni %lld"
+          }
+        }
+      }
+    },
+    "Velvet Dusk" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sametový soumrak"
+          }
+        }
+      }
+    },
+    "Well done!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dobrá práce!"
+          }
+        }
+      }
+    },
+    "Without hints" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bez nápověd"
+          }
+        }
+      }
+    },
+    "Wonderful!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paráda!"
+          }
+        }
+      }
+    },
+    "Word sources" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdroje slov"
+          }
+        }
+      }
+    },
+    "Words" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slova"
+          }
+        }
+      }
+    },
+    "Words need at least %lld letters" : {
+      "localizations" : {
+        "cs" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Slovo musí mít aspoň %lld písmena"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Slovo musí mít aspoň %lld písmene"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Slovo musí mít aspoň %lld písmeno"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Slovo musí mít aspoň %lld písmen"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Words need at least %lld letter"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Words need at least %lld letters"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Words you find while playing are collected here." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slova, která při hraní najdeš, se ukládají sem."
+          }
+        }
+      }
+    },
+    "Wordsmith" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mistr slov"
+          }
+        }
+      }
+    },
+    "Wordwander %@ · Plays entirely offline." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wordwander %@ · Funguje zcela offline."
+          }
+        }
+      }
+    },
+    "Wordwander was made with care to be calm and fair: no ads, no purchases, no tracking, and it works completely offline." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wordwander vznikl s péčí, aby byl klidný a férový: žádné reklamy, žádné nákupy, žádné sledování a funguje zcela offline."
+          }
+        }
+      }
+    },
+    "You've already solved today's puzzle in another language, so its reward is collected. Bonus words still count." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dnešní hádanku už máš vyřešenou v jiném jazyce, takže odměna je vybraná. Bonusová slova se ale počítají."
+          }
+        }
+      }
+    },
+    "You've completed every level. Replay any level from the map!" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Všechny úrovně máš za sebou. Libovolnou si můžeš zopakovat z mapy!"
+          }
+        }
+      }
+    },
+    "Your daily puzzle is ready" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvoje denní hádanka je připravená"
+          }
+        }
+      }
+    },
+    "Your lexicon is empty" : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvůj slovník je prázdný"
+          }
+        }
+      }
+    },
+    "© 2022 Robyn Speer and contributors, github.com/rspeer/wordfreq. Word frequency data, CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0), provided as is, without warranty. The puzzles, their word lists and crosswords alike, are adapted from it and shared under the same licence at github.com/RobertLib/crosswords." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022 Robyn Speer a přispěvatelé, github.com/rspeer/wordfreq. Data o četnosti slov, CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0), poskytnutá tak, jak jsou, bez záruky. Hádanky, jejich seznamy slov i křížovky, jsou z nich upravené a šíří se pod stejnou licencí na github.com/RobertLib/crosswords."
+          }
+        }
+      }
+    },
+    "© Shutterstock, github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words, CC BY 4.0 (creativecommons.org/licenses/by/4.0). Keeps the puzzles family friendly." : {
+      "localizations" : {
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© Shutterstock, github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words, CC BY 4.0 (creativecommons.org/licenses/by/4.0). Díky němu jsou hádanky vhodné pro celou rodinu."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

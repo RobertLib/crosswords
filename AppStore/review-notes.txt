@@ -1,0 +1,21 @@
+No account or sign-in is required, and there is nothing to unlock with money. Tap "Play level 1" on the home screen: the first level shows an animated hand tracing a word across the letter wheel, and the whole game is available from the first launch.
+
+There are no in-app purchases, no advertising and no StoreKit code. Coins pay for hints but cannot be bought: they are earned only by playing (a level solved, a chapter finished, the daily puzzle, every ten bonus words, achievements). A new player starts with 200 coins and the Light Bulb hint; Spotlight unlocks after level 6 and Starburst after level 15, each with two free uses to try it out.
+
+NO GAMBLING OF ANY KIND. Every reward is a fixed amount, the same for every player: the coins for a level, a chapter, the daily puzzle and a 7-day streak, the bonus gift (25 coins for every ten bonus words) and the achievement tiers. Nothing is wagered and nothing is random — no loot boxes, spins or chests. The age rating's Chance-Based Activities are answered None, and the Gambling declaration is No.
+
+Fully offline: no networking code, no packages, no third-party SDKs. All 2,400 journey levels and 800 daily puzzles (English and Czech) ship in the app as two JSON files; the daily puzzle is picked from the date, so it needs no server. The sounds are synthesised on the device. Progress is one JSON file in Application Support; nothing leaves the device.
+
+Notifications: Settings → Daily reminder is off by default. Turning it on asks for notification permission and schedules local notifications only (no push, no server); a day whose puzzle is already solved gets no reminder.
+
+Dictionary: Home → Lexicon lists every word the player has found; tapping one opens iOS's own dictionary viewer (UIReferenceLibraryViewController). If no dictionary is installed, the app points to Settings → General → Dictionary.
+
+Content: offensive words never appear in the crossword. The word lists were filtered when the puzzles were built, with a public blocklist extended to every inflected form of its words and with hand-made lists, and every bundled puzzle is checked again by the app's unit tests. Vulgar words and slurs are not accepted at all. Crossword answers also leave out insults, crude words and grim subjects (death, weapons, drugs, spirits, gambling, grave illness); a few such words (such as "fart" or "naked") still count as bonus words when a player spells them on the wheel. The word lists come from the ENABLE word list (public domain) and wordfreq (CC BY-SA 4.0), credited in Settings → Acknowledgements; the landscapes, the icon, the interface and the sounds are the app's own.
+
+How to play: drag a finger across the letters on the wheel and lift it to submit a word. Words in the crossword fill their squares; other real words count as bonus words and fill the gift (bottom left). Shuffle reorders the letters. The three hint buttons on the right are Light Bulb (the next letter of a word), Spotlight (tap any empty square to reveal it) and Starburst (five scattered letters). Every 12 levels is a chapter, and the chapters travel through 24 landscapes. The home screen has the journey, the daily puzzle with its streak and calendar, the Lexicon and Trophies; the gear opens Settings.
+
+Accessibility: with VoiceOver or Switch Control on, or Settings → Spell by tapping, every wheel letter is a button tapped instead of swiped, and Submit word / Clear buttons appear; the crossword reads out how many words are found and the pattern of each missing word; while Spotlight is active, the hidden squares can be chosen with VoiceOver. Reduce Motion is honoured throughout, and the menus support Dynamic Type.
+
+Localization: English and Czech. The interface and the puzzles follow the device language; Settings → Puzzle language switches the puzzles, and each language keeps its own journey, daily puzzle and lexicon.
+
+The app supports iPhone (portrait) and iPad (every orientation).
